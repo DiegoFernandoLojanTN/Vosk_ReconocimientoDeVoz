@@ -43,11 +43,6 @@ El proyecto consta de dos archivos principales:
 - **vosk_recog.py**: Este script configura el modelo de reconocimiento de voz y procesa el audio de entrada, transcribiéndolo a texto.
 - **app.py**: Este script es el punto de entrada del proyecto. Inicia el reconocimiento de voz y muestra las transcripciones en tiempo real.
 
-## Ejecución
 
-Para ejecutar el reconocimiento de voz, utiliza el siguiente comando:
-```powershell
-    python app.py
-    ```
 
 
