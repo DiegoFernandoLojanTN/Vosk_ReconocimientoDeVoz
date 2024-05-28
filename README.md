@@ -1,5 +1,6 @@
 # Vosk_ReconocimientoDeVoz
 Este proyecto se realizó como una prueba para evaluar el funcionamiento del modelo VOSK en el reconocimiento de voz. El modelo VOSK es una poderosa herramienta de código abierto que permite la transcripción de audio a texto en tiempo real. 
+
 [![VOSK](https://i.postimg.cc/NMYXL0rX/imagen-2024-05-28-172456500.png)](https://postimg.cc/McPHFq5Z)
 
 ## Grupo GEO.VOICE-TECH
