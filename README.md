@@ -50,6 +50,4 @@ Para ejecutar el reconocimiento de voz, utiliza el siguiente comando:
     python app.py
     ```
 
-Espera a que el modelo se cargue y comienza a hablar; verás cómo se transcribe a texto lo que se habla en tiempo real.
-
 
