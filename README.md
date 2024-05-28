@@ -1,1 +1,0 @@
-# Vosko_ReconocimientoDeVoz_GEOVOICETECH

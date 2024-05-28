@@ -1,13 +1,14 @@
-from ENGINE.STT.vosk_recog import speech_to_text
+from ENGINE.STT.vosk_recog import VoiceRecognizer
 
 try:
-    # Iniciar el reconocimiento de voz
-    for speech in speech_to_text():
-        if speech.strip():  # Asegura que el texto no sea solo espacios
+    recognizer = VoiceRecognizer()
+    print("Iniciando el reconocimiento de voz. Presione Ctrl+C para detener.")
+    for speech in recognizer.stream_audio():
+        if speech.strip():  # Ignora los resultados vacíos
             print("Humano >>", speech)
 except KeyboardInterrupt:
-    print("\nReconocimiento de voz interrumpido por el usuario.")
+    print("\nReconocimiento de voz detenido por el usuario.")
 except Exception as e:
     print("\nError durante el reconocimiento de voz:", e)
 finally:
-    print("Finalizando el reconocimiento de voz.")
+    print("Proceso de reconocimiento de voz finalizado.")
