@@ -46,7 +46,7 @@ El proyecto consta de dos archivos principales:
 ## Ejecución
 
 Para ejecutar el reconocimiento de voz, utiliza el siguiente comando:
-    ```powershell
+```powershell
     python app.py
     ```
 
