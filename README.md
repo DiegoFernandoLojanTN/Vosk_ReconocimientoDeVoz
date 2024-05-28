@@ -45,6 +45,11 @@ El proyecto consta de dos archivos principales:
 - **app.py**: Este script es el punto de entrada del proyecto. Inicia el reconocimiento de voz y muestra las transcripciones en tiempo real.
 
 
+## Demostracion
+
+[![Demostracion](https://i.postimg.cc/MpGJJkZm/imagen-2024-05-28-174726150.png)](https://postimg.cc/qzW5253N)
+
+
 ## Proyectos Relacionados
 
 Además de este proyecto, estamos desarrollando una interfaz web que puede ser encontrada en el siguiente repositorio:
