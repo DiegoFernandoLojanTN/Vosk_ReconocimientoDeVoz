@@ -45,5 +45,11 @@ El proyecto consta de dos archivos principales:
 - **app.py**: Este script es el punto de entrada del proyecto. Inicia el reconocimiento de voz y muestra las transcripciones en tiempo real.
 
 
+5. **Proyectos Relacionados**
 
+Además de este proyecto, estamos desarrollando una interfaz web que puede ser encontrada en el siguiente repositorio:
+- [VoskGeoVoiceTech](https://github.com/jahirxtrap/VoskGeoVoiceTech.git)
+
+También estamos trabajando en una aplicación para Android que utiliza una versión más ligera del modelo VOSK, diseñada específicamente para dispositivos móviles:
+- [GeoMinerTranscripts](https://github.com/jahirxtrap/GeoMinerTranscripts)
 
